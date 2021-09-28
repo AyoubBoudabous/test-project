@@ -1,0 +1,38 @@
+body{
+  background-image: url('res/SoMe-image.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+P{
+    font-family: auto;
+    font-style: oblique;
+    line-height: 65px;
+    font-size: 25px;
+}
+.title{
+    vertical-align: inherit;
+    font-family: Arial, "Times new roman" ;
+    display: flex;
+    justify-content: center;
+    font-size: 41px;
+    margin-top: 2%;
+    color: #c91841ed;
+    margin-bottom: 4%}
+h1{
+    color: #FF6226;
+    }
+.title{
+        font-size: 42px;
+        margin-top: 2%;
+        color: #1bffea
+    }
+.paragraphe{
+        background:white;
+        width: 50%;
+        padding: 40px;
+        margin: 100px auto;
+        font-family: calibri;
+       
+    }
+
